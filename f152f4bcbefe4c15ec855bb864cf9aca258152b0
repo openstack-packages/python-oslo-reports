@@ -1,0 +1,8 @@
+Verified+1: rdo-ci-jenkins <brad+jenkins@redhat.com>
+Code-Review+2: Javier Peña <jpena@redhat.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Thu, 09 Jul 2015 13:28:33 +0200
+Reviewed-on: https://review.gerrithub.io/239335
+Project: openstack-packages/python-oslo-reports
+Branch: refs/heads/rpm-master
