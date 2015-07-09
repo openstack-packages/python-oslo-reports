@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad9bd40_9162c4ab",
+        "filename": "python-oslo-reports.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-07-09T11:28:26Z",
+      "side": 1,
+      "message": "nitpick: EOL space",
+      "revId": "f152f4bcbefe4c15ec855bb864cf9aca258152b0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
